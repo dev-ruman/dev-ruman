@@ -9,5 +9,5 @@ dev-ruman/dev-ruman is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![dino](https://github.com/dev-ruman/dev-ruman/assets/90115551/59486346-ff23-496d-aed8-752f2001eb8a)
-
+![Snake animation](https://github.com/dev-ruman/dev-ruman/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/dev-ruman/dev-ruman/blob/output/github-contribution-grid-snake.gif)
